@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ashish-1289.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/Ashish-1289.github.io/static/js/main.abdbae13.chunk.js",
+    "main.js.map": "/Ashish-1289.github.io/static/js/main.abdbae13.chunk.js.map",
+    "runtime-main.js": "/Ashish-1289.github.io/static/js/runtime-main.175795d5.js",
+    "runtime-main.js.map": "/Ashish-1289.github.io/static/js/runtime-main.175795d5.js.map",
+    "static/js/2.aafaae6e.chunk.js": "/Ashish-1289.github.io/static/js/2.aafaae6e.chunk.js",
+    "static/js/2.aafaae6e.chunk.js.map": "/Ashish-1289.github.io/static/js/2.aafaae6e.chunk.js.map",
+    "static/js/3.19cc99f8.chunk.js": "/Ashish-1289.github.io/static/js/3.19cc99f8.chunk.js",
+    "static/js/3.19cc99f8.chunk.js.map": "/Ashish-1289.github.io/static/js/3.19cc99f8.chunk.js.map",
+    "index.html": "/Ashish-1289.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Ashish-1289.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.aafaae6e.chunk.js.LICENSE.txt": "/Ashish-1289.github.io/static/js/2.aafaae6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.175795d5.js",
+    "static/js/2.aafaae6e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.abdbae13.chunk.js"
+  ]
+}
